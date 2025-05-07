@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is William, I'm a highly passionate web developer<br>and JavaScript enthusiast that is currently studying frontend development at IT-Högskolan Stockholm, Sweden.</p>
+<p align="left">30y/o fullstack dev from Uppsala, Sweden.<br>When im not writing/reading good clean code i either exploring the world with my daughter or enjoying a nice pizza.</p>
 
 ###
 
